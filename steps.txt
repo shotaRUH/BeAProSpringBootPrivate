@@ -1,1 +1,1 @@
-setps 1
+steps 3
